@@ -1,0 +1,5 @@
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
